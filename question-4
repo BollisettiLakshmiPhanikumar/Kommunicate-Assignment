@@ -1,0 +1,35 @@
+Good morning everyone,Myself lakshmi PhaniKumar Bollisetti.Iam persuing My B-tech at SRM institue of Science and technology.
+Iam from Andhra Pradesh.i have done a project which is based on machine learning.my project was "Mapping PH in indian drinking
+system using machine learning.the main aim of the project is to map the points where the water is available which is pure and 
+secure.
+Firstly, we have to collect the data set from the requirement field. later we have to do feature
+extraction that is applied on the dataset for the selection of columns that we are required for
+the further implementation of the date. After collecting the data, we have to do data cleansing
+process which means removing unwanted data from the collected data set means such as null
+values, unwanted value. Further we have do k-folds validation process which means divide
+the datasets into n sets and take the group as a keep off or take a look at information set.
+Take the remaining groups as a training information set. Work a model on the training set
+and calculate it on the take a look at set. Keep the analysis score and discard the model.
+furtherly, train the model by using algorithms such as decision tree, optimized decision tree
+and gradient boosting algorithm and evaluating the model by checking the accuracy of the
+model. After that check the values that are suitable for drinking thOSE values has to be
+hold and check the value location present on the dataset and map the values on the india
+map.
+
+In contrast to that here the used models are decision tree and gradient boosting algorithms
+due to the shortage of records in the dataset. The expected accuracy varies from the base
+paper as the data and its attributes completely differ from existing one. Thus the elevation
+of improvements in the project would be proper and absolute for the individual papers.
+The efficiency of the output is lagged when applied to the decision tree. Hence to overcome
+this problem the decision tree has been optimised to get detailed observations in the final
+output. But the accuracy did not reach the level and led to the application of gradient
+boosting. And then accuracy has raised to an extent sufficient for the preference of output.
+
+
+
+where do u collect the data set?
+we have collected the dataset by using survey format and we have stored the data in the .csv file after that we have uploaded in the google colab and we did the project
+
+
+
+we have used decision tree base classifier that helps us to take the decisions clearly that helps to prepare the model correctly and fit for it.
